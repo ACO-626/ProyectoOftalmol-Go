@@ -1,0 +1,6 @@
+LISTA DE ERRORES
+
+error 1001:
+Faltan archivos de sonido en la carpeta SOUND o se le ha cambiado el nombre a uno de estos archivos de sonido
+
+
